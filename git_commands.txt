@@ -1,0 +1,19 @@
+
+github cred
+mskarthikeyan.sun@gmail.com
+
+mskarthikeyansun
+K@rma0462
+
+
+git init
+
+git status
+
+echo "# devops_practice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:mskarthikeyansun/devops_practice.git
+git push -u origin main
